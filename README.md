@@ -135,7 +135,7 @@ This project was developed with assistance from:
 ## Method 1: Open Directly
 
 1. Clone or download the repository.
-2. Open the `index.html` file in a modern web browser.
+2. Open the `Neon Orb Frenzy.html` file in a modern web browser.
 
 ## Method 2: Run on Local Server
 
