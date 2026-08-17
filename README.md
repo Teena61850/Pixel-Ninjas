@@ -132,24 +132,10 @@ This project was developed with assistance from:
 
 # ▶️ Launch Instructions
 
-## Method 1: Open Directly
+## Open Directly
 
 1. Clone or download the repository.
 2. Open the `Neon Orb Frenzy.html` file in a modern web browser.
-
-## Method 2: Run on Local Server
-
-Using Python:
-
-```bash
-python -m http.server 8000
-```
-
-Then open:
-
-```text
-http://localhost:8000
-```
 
 ---
 
@@ -157,7 +143,6 @@ http://localhost:8000
 
 - Google Chrome
 - Microsoft Edge
-- Mozilla Firefox
 
 ### Recommended Browser
 Google Chrome or Microsoft Edge for the best visual and audio experience.
@@ -169,7 +154,6 @@ Google Chrome or Microsoft Edge for the best visual and audio experience.
 - Leaderboard uses browser Local Storage and does not sync across devices.
 - Scores are stored locally only.
 - Audio playback may require initial user interaction because of browser security restrictions.
-- Performance may vary on low-end mobile devices.
 - Background images depend on external URLs and require internet access.
 
 ---
